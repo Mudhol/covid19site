@@ -1,0 +1,8 @@
+.pushit{
+    padding-left: 40px;
+    font-size: 22px;
+}
+.global{
+    display: grid;
+    grid-template-columns:auto;
+}

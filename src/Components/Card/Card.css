@@ -1,0 +1,11 @@
+.link{
+    color:black;
+}
+.shadow{
+    box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 0px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: justify;
+
+}
+.Card{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'AbrilFatface';
+    font-style: normal;
+    font-weight: normal;
+    src: local('AbrilFatface'), url('AbrilFatface-Regular.ttf') format('ttf');
+    }
+
+.notes{
+    display:grid;
+    grid-template-columns: 80% 20%;
+    
+}
+.flag{
+    margin-top:0;
+    padding-top: 0;
+}
+.adj{
+    font-size: 30px;
+    margin: 0px;
+}
+.adj1{
+    margin-top: 0px;
+    font-size: 20px;
+}
+.lowerpart{
+    display: flex;
+    justify-content:space-around;
+}
+.totaldeath{
+    font-weight: bolder;
+    color:red;
+    font-size: 18px;
+}
+.recovered{
+    font-weight: bolder;
+    color:green;
+    font-size:18px;
+}
